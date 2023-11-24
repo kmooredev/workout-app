@@ -25,6 +25,7 @@ export default {
       primary: 'rgba(var(--primary))',
       secondary: 'rgba(var(--secondary))',
       accent: 'rgba(var(--accent))',
+      error: 'rgba(var(--error))',
     },
   },
   plugins: [],

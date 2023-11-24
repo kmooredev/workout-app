@@ -13,6 +13,7 @@
   --primary: 93, 121, 105, 1;
   --secondary: 200, 213, 206, 1;
   --accent: 91, 118, 103, 1;
+  --error: 185, 28, 28, 1;
 }
 @media (prefers-color-scheme: dark) {
   :root {
